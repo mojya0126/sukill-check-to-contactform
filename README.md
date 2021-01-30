@@ -5,7 +5,7 @@
 　visual studio Code
  
  （作成時のレベル）
- HTML＆CSS　アウトラインを知っている程度。PHP 完全未経験
+ HTML＆CSS　概要を知っている程度。PHP 完全未経験
 
 
 （実装に費やした時間）
